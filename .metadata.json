@@ -1,0 +1,10 @@
+[
+  {
+    "package": "covequal",
+    "oncran": true
+  },
+  {
+    "package": "rootWishart",
+    "oncran": true
+  }
+]
