@@ -3,13 +3,13 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "covequal"]
-	path = covequal
-	url = https://github.com/turgeonmaxime/covequal
-	shallow = true
-	registered = true
 [submodule "rootWishart"]
 	path = rootWishart
 	url = https://github.com/turgeonmaxime/rootwishart
+	shallow = true
+	registered = true
+[submodule "covequal"]
+	path = covequal
+	url = https://github.com/turgeonmaxime/covequal
 	shallow = true
 	registered = true
