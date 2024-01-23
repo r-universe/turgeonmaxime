@@ -5,6 +5,3 @@
 [submodule "covequal"]
 	path = covequal
 	url = https://github.com/turgeonmaxime/covequal
-[submodule "rootWishart"]
-	path = rootWishart
-	url = https://github.com/turgeonmaxime/rootwishart
